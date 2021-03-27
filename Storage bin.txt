@@ -1,0 +1,6 @@
+Hammer 1
+Saw 2
+Level 3
+Level 3
+Saw 5
+quit
